@@ -8,8 +8,8 @@ Storing some 'test' data...which may be either downloaded/or else, queried exter
 
 My intention is to use different kinds of data formats to contain the data:-  
 
-- .csv (comma seperated values file)  
-- .html (HyperText MarkUp Language)  
+- .csv (Comma Seperated Values file)  
+- .html (HyperText MarkUp Language file)  
 - .json (JavaScript Object Notation file)
 - .txt (plain text file)  
 - .xml (eXtensible MarkUp Language file)  
