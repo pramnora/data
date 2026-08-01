@@ -1,5 +1,5 @@
-Name,Number
-Nat West Bank,0800 200 400
-Zempler Bank,0330 024 0924
-Samaritans,116 123
-Emergency,999
+Name,Number,Main-category,Sub-category
+Nat West Bank,0800 200 400,Finance
+Zempler Bank,0330 024 0924,Finance
+Samaritans,116 123,Emergency,Chat
+Emergency,999,Emergency,Police/Ambulance/Fire
