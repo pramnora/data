@@ -6,15 +6,16 @@ Storing some 'test' data...which may be either downloaded/or else, queried exter
 
 -----
 
-My intention is to use different kinds of data formats to contain the data:-
+My intention is to use different kinds of data formats to contain the data:-  
 
-- .csv
-- .json
-- .txt
-- .xml
-- .yml
+- .csv (comma seperated values file)  
+- .html (HyperText MarkUp Language)  
+- .json (JavaScript Object Notation file)
+- .txt (plain text file)  
+- .xml (eXtensible MarkUp Language file)  
+- .yml/.yaml (YML ain't MarkUp Language/Yet Another MarkUp Language)  
 
-...and, so on.
+...and, so on.  
 
 
 
