@@ -1,5 +1,5 @@
-Name - Number - Main-category - Sub-category - Country
-Nat West - 0800 200 400 - Finance - Bank - UK 
-Zempler/(Cashplus) - 0330 024 0924 - Finance - Bank - UK
-Samaritans - 116 123 - Emergency - Talk - UK
-Emergency - 999 - Emergency - Police/Ambulance/Fire - UK
+Entry - Name - Number - Main-category - Sub-category - Country
+1 - Nat West - 0800 200 400 - Finance - Bank - UK 
+2 - Zempler/(Cashplus) - 0330 024 0924 - Finance - Bank - UK
+3 - Samaritans - 116 123 - Emergency - Talk - UK
+4 - Emergency - 999 - Emergency - Police/Ambulance/Fire - UK
