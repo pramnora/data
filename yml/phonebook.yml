@@ -1,23 +1,27 @@
 ---
 -
+    Entry: 1
     Name: Nat West
     Number: 0800 200 400
     Main-category: Finance
     Sub-category: Bank
     Country: UK
 -
+    Entry: 2
     Name: Zempler/(Cashplus)
     Number: 0330 024 0924
     Main-category: Finance
     Sub-category: Bank
     Country: UK
 -
+    Entry: 3
     Name: Samaritans
     Number: 116 123
     Main-category: Emergency
     Sub-category: Chat
     Country: UK
 -
+    Entry: 4
     Name: Emergency
     Number: 999
     Main-category: Emergency
