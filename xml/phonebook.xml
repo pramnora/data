@@ -1,0 +1,35 @@
+<phonebook>
+
+  <entry id="1">
+  <name></name>
+  <number></number>
+  <country></country> 
+  <category></category>
+  <sub-category></sub-category> 
+ </entry>
+
+ <entry id="2">
+  <name></name>
+  <number></number>
+  <country></country> 
+  <category></category>
+  <sub-category></sub-category> 
+ </entry>
+
+ <entry id="3">
+  <name></name>
+  <number></number>
+  <country></country> 
+  <category></category>
+  <sub-category></sub-category> 
+ </entry>  
+
+ <entry id="4">
+  <name></name>
+  <number></number>
+  <country></country> 
+  <category></category>
+  <sub-category></sub-category> 
+ </entry>  
+  
+</phonebook>  
