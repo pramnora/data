@@ -1,35 +1,35 @@
 <phonebook>
 
   <entry id="1">
-  <name></name>
-  <number></number>
-  <country></country> 
-  <category></category>
-  <sub-category></sub-category> 
+  <name>Nat West</name>
+  <number>0800 200 400</number>
+  <category>Finance</category>
+  <sub-category>Bank</sub-category> 
+  <country>UK</country> 
  </entry>
 
  <entry id="2">
-  <name></name>
-  <number></number>
-  <country></country> 
-  <category></category>
-  <sub-category></sub-category> 
+  <name>Zempler</name>
+  <number>0330 024 0924</number>
+  <category>Finance</category>
+  <sub-category>Bank</sub-category> 
+  <country>UK</country> 
  </entry>
 
  <entry id="3">
-  <name></name>
-  <number></number>
-  <country></country> 
-  <category></category>
-  <sub-category></sub-category> 
+  <name>Samaritans</name>
+  <number>116 123</number>
+  <category>Emergency</category>
+  <sub-category>Talk</sub-category> 
+  <country>UK</country> 
  </entry>  
 
  <entry id="4">
-  <name></name>
-  <number></number>
-  <country></country> 
-  <category></category>
-  <sub-category></sub-category> 
+  <name>Emergency</name>
+  <number>999</number>
+  <category>Emergency</category>
+  <sub-category>Police/Ambulance/Fire</sub-category> 
+  <country>UK</country> 
  </entry>  
   
 </phonebook>  
