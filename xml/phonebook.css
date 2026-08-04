@@ -1,0 +1,20 @@
+/*
+  Stylesheet for: phonebook.xml
+
+  CREATED: Thu 14 Aug 2026 02:42 AM GMT
+  UPDATED: Thu 14 Aug 2026 02:42 AM GMT
+*/
+
+phonebook{
+ text-indent:1cm;
+}
+
+phonebook,name,number,main-category,sub-category,country{
+ display:block;
+ background-color:white;
+ color:black;
+}
+
+entry{
+ margin:10px;
+}
