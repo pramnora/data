@@ -6,6 +6,43 @@
  <entry id="1">
   <name>Nat West</name>
   <number>0800 200 400</number>
+  <main-category>Finance</main-category>
+  <sub-category>Bank</sub-category> 
+  <country>UK</country> 
+ </entry>
+
+ <entry id="2">
+  <name>Zempler</name>
+  <number>0330 024 0924</number>
+  <main-category>Finance</main-category>
+  <sub-category>Bank</sub-category> 
+  <country>UK</country> 
+ </entry>
+
+ <entry id="3">
+  <name>Samaritans</name>
+  <number>116 123</number>
+  <main-category>Emergency</main-category>
+  <sub-category>Talk</sub-category> 
+  <country>UK</country> 
+ </entry>  
+
+ <entry id="4">
+  <name>Emergency</name>
+  <number>999</number>
+  <main-category>Emergency</main-category>
+  <sub-category>Police/Ambulance/Fire</sub-category> 
+  <country>UK</country> 
+ </entry>  
+  
+</phonebook>  <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml-stylesheet type="text/css" href="phonebook.css" ?>
+
+<phonebook>
+
+ <entry id="1">
+  <name>Nat West</name>
+  <number>0800 200 400</number>
   <category>Finance</category>
   <sub-category>Bank</sub-category> 
   <country>UK</country> 
